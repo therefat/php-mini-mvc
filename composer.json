@@ -1,0 +1,17 @@
+{
+    "name": "refat/php-mini-mvc",
+    "autoload": {
+        "psr-4": {
+            "Refat\\PhpMiniMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mdrefathossen",
+            "email": "refathossen2001@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
